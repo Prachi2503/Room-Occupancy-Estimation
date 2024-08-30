@@ -1,0 +1,1 @@
+The goal of this project is to build a method to predict the number of occupants in a room based on sensor data from light, sound, CO2 , temperature, and motion sensors fit in a 6m * 4.6m room, collected over the duration of 4 days. With this project, we try to classify the number of occupants into 4 pools (0,1,2 and 3) using Machine Learning techniques and algorithms.
